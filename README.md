@@ -31,9 +31,15 @@ Install Anaconda https://www.anaconda.com/products/individual and make sure to "
 
 2. Clone this repository to that directory
 
-1. Create a new file called test2.py
+3. Create a new branch called "sammy-issa"
 
-2. vim into the file and insert the code that answers the following: 
+4. Create a new remote branch to github called "sammy-issa"
+
+5. If you're not in "sammy-issa" branch, switch to it. Otherwise, skip to 6.
+
+6. In that branch, Create a new file called test2.py
+
+7. vim into the file and insert the code that answers the following: 
 
 ```
 George comes and asks you to create a cash flow model. He says that you need the following table:
@@ -43,7 +49,7 @@ YodleeTransactions: Account_Name, PostDate, CashAmount, CategoryType, Location.
 He says he wants to know how much cash each account spent in each category.
 
 ```
-3. Git status, add, commit, and push.
+8. Git status, add, commit, and push.
 
 
 ### Hints:
